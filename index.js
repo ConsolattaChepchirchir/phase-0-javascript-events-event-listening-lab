@@ -1,3 +1,4 @@
+//code
 function addingEventListener() {
     const input = document.getElementById('button');
 
